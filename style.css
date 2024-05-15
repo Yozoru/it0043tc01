@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+body{
+    background-image: url(cheater.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-family: "Anton";
+}
+
+.heading{
+    margin-top: 90px;
+    font-size: 5rem;
+}
+
+.subheading{
+    font-size: 2.5rem;
+}
+
+p{
+    margin-top: 20px;
+    font-size: 2rem;
+}
+
+.white{
+    font-weight: bold;
+    color: aliceblue;
+}
+
+.red{
+    font-weight: bold;
+    color:crimson;
+}
+
+.logo{
+    display: block;
+    height: 5%;
+    width: 5%;
+}
